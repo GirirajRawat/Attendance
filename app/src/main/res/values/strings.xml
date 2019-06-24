@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Attendance</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string-array name="SpinnerUsers">
         <item>admin</item>
         <item>teacher</item>
