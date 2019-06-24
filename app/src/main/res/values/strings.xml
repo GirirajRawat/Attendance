@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string-array name="SpinnerUsers">
+        <item>admin</item>
+        <item>teacher</item>
+    </string-array>
+</resources>
